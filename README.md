@@ -8,4 +8,4 @@ Using Python as a method to validate SQL queries
 4. Loaded the data into the Python IDE
 5. Customized the Python code
 6. Run the codes in MySQL and Python(Google Colab or Pycharm)
-7. Compare the result
+7. Compare the results between the SQL query and the Python code
